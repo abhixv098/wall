@@ -1,0 +1,17 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "width": 2848,
+      "height": 4272,
+      "photographer": "Emine Şevval",
+      "photographer_url": "https://www.pexels.com/@emine-sevval-587670081",
+      "avg_color": "#52572E",
+      "src": {
+        "original": "images/pic_1.jpeg"
+      },
+      "liked": false,
+      "alt": ""
+    }
+  ]
+}
