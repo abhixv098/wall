@@ -1,368 +1,368 @@
 {
-  "photos": [
-    {
-      "id": 1,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475431419.jpg"
+    "photos": [
+      {
+        "id": 1,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475431419.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from iPad 17"
       },
-      "liked": false,
-      "alt": "Wallpaper from iPad 17"
-    },
-     {
-      "id": 2,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475432890.jpg"
+       {
+        "id": 2,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475432890.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from MacOS"
       },
-      "liked": false,
-      "alt": "Wallpaper from MacOS"
-    },
-     {
-      "id": 3,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475437075.jpg"
+       {
+        "id": 3,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475437075.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from MacBook Air"
       },
-      "liked": false,
-      "alt": "Wallpaper from MacBook Air"
-    },
-     {
-      "id": 4,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475440122.jpg"
+       {
+        "id": 4,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475440122.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from MacBook Air"
       },
-      "liked": false,
-      "alt": "Wallpaper from MacBook Air"
-    },
-     {
-      "id": 5,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475443540.jpg"
+       {
+        "id": 5,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475443540.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from iOS 17"
       },
-      "liked": false,
-      "alt": "Wallpaper from iOS 17"
-    },
-    {
-      "id": 6,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475446576.jpg"
+      {
+        "id": 6,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475446576.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from iOS 17"
       },
-      "liked": false,
-      "alt": "Wallpaper from iOS 17"
-    },
-    {
-      "id": 7,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Google",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475449303.jpg"
+      {
+        "id": 7,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Google",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475449303.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Pixel 7A"
       },
-      "liked": false,
-      "alt": "Wallpaper from Pixel 7A"
-    },
-    {
-      "id": 8,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Google",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475457839.jpg"
+      {
+        "id": 8,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Google",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475457839.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Pixel 7A"
       },
-      "liked": false,
-      "alt": "Wallpaper from Pixel 7A"
-    },
-    {
-      "id": 9,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Google",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475463244.jpg"
+      {
+        "id": 9,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Google",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475463244.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Pixel 7A"
       },
-      "liked": false,
-      "alt": "Wallpaper from Pixel 7A"
-    },
-     {
-      "id": 9,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Google",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475466915.jpg"
+       {
+        "id": 9,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Google",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475466915.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Pixel 7A"
       },
-      "liked": false,
-      "alt": "Wallpaper from Pixel 7A"
-    },
-    {
-      "id": 10,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475470160.jpg"
+      {
+        "id": 10,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475470160.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Apple India"
       },
-      "liked": false,
-      "alt": "Wallpaper from Apple India"
-    },
-    {
-      "id": 11,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475473289.jpg"
+      {
+        "id": 11,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475473289.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Apple India"
       },
-      "liked": false,
-      "alt": "Wallpaper from Apple India"
-    },
-    {
-      "id": 12,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Huawei",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475476644.jpg"
+      {
+        "id": 12,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Huawei",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475476644.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Huawei"
       },
-      "liked": false,
-      "alt": "Wallpaper from Huawei"
-    },
-     {
-      "id": 13,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475479811.jpg"
+       {
+        "id": 13,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475479811.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from WWDC"
       },
-      "liked": false,
-      "alt": "Wallpaper from WWDC"
-    },
+          {
+        "id": 14,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475482847.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from WWDC"
+      },
+       {
+        "id": 15,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475485870.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from iPhone 14"
+      },
         {
-      "id": 14,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475482847.jpg"
+        "id": 16,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Microsoft",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475488863.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Windows 11"
       },
-      "liked": false,
-      "alt": "Wallpaper from WWDC"
-    },
-     {
-      "id": 15,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475485870.jpg"
+       {
+        "id": 17,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by OnePlus",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475492243.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from OnePlus 11R"
       },
-      "liked": false,
-      "alt": "Wallpaper from iPhone 14"
-    },
+         {
+        "id": 18,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by OnePlus",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475495269.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from OnePlus 11R"
+      },
+        {
+        "id": 19,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by OnePlus",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475498356.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from OnePlus 11R"
+      },
       {
-      "id": 16,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Microsoft",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475488863.jpg"
+        "id": 20,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Samsung",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475501325.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Samsung S23"
       },
-      "liked": false,
-      "alt": "Wallpaper from Windows 11"
-    },
-     {
-      "id": 17,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by OnePlus",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475492243.jpg"
-      },
-      "liked": false,
-      "alt": "Wallpaper from OnePlus 11R"
-    },
-       {
-      "id": 18,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by OnePlus",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475495269.jpg"
-      },
-      "liked": false,
-      "alt": "Wallpaper from OnePlus 11R"
-    },
       {
-      "id": 19,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by OnePlus",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475498356.jpg"
+        "id": 21,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Samsung",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475504185.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from Samsung S23"
       },
-      "liked": false,
-      "alt": "Wallpaper from OnePlus 11R"
-    },
-    {
-      "id": 20,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Samsung",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475501325.jpg"
+      {
+        "id": 22,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475520928.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from MacOS"
       },
-      "liked": false,
-      "alt": "Wallpaper from Samsung S23"
-    },
-    {
-      "id": 21,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Samsung",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475504185.jpg"
+         {
+        "id": 23,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(1).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
       },
-      "liked": false,
-      "alt": "Wallpaper from Samsung S23"
-    },
-    {
-      "id": 22,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Apple",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/1686475520928.jpg"
-      },
-      "liked": false,
-      "alt": "Wallpaper from MacOS"
-    },
        {
-      "id": 23,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Nothing",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(1).png"
+        "id": 24,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(2).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
       },
-      "liked": false,
-      "alt": "Wallpaper from NothingOS"
-    },
-     {
-      "id": 24,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Nothing",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(2).png"
-      },
-      "liked": false,
-      "alt": "Wallpaper from NothingOS"
-    },
-     {
-      "id": 25,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Nothing",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(3).png"
-      },
-      "liked": false,
-      "alt": "Wallpaper from NothingOS"
-    },
        {
-      "id": 26,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Nothing",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(4).png"
+        "id": 25,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(3).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
       },
-      "liked": false,
-      "alt": "Wallpaper from NothingOS"
-    },
-    {
-      "id": 26,
-      "width": 1090,
-      "height": 1080,
-      "photographer": "by Nothing",
-      "photographer_url": "",
-      "avg_color": "#52572E",
-      "src": {
-        "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(5).png"
+         {
+        "id": 26,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(4).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
       },
-      "liked": false,
-      "alt": "Wallpaper from NothingOS"
-    },
-  ]
-}
+      {
+        "id": 26,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "by Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://github.com/abhixv098/wall/blob/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(5).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
+      }
+    ]
+  }
