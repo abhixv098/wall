@@ -1,5 +1,83 @@
 {
     "photos": [
+        {
+        "id": 22,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "Apple",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/1686475520928.jpg"
+        },
+        "liked": false,
+        "alt": "Wallpaper from MacOS"
+      },
+         {
+        "id": 23,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(1).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
+      },
+       {
+        "id": 24,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(2).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
+      },
+       {
+        "id": 25,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(3).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
+      },
+         {
+        "id": 26,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(4).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
+      },
+      {
+        "id": 26,
+        "width": 1090,
+        "height": 1080,
+        "photographer": "Nothing",
+        "photographer_url": "",
+        "avg_color": "#52572E",
+        "src": {
+          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(5).png"
+        },
+        "liked": false,
+        "alt": "Wallpaper from NothingOS"
+      },
       {
         "id": 1,
         "width": 1090,
@@ -285,84 +363,6 @@
         },
         "liked": false,
         "alt": "Wallpaper from Samsung S23"
-      },
-      {
-        "id": 22,
-        "width": 1090,
-        "height": 1080,
-        "photographer": "Apple",
-        "photographer_url": "",
-        "avg_color": "#52572E",
-        "src": {
-          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/1686475520928.jpg"
-        },
-        "liked": false,
-        "alt": "Wallpaper from MacOS"
-      },
-         {
-        "id": 23,
-        "width": 1090,
-        "height": 1080,
-        "photographer": "Nothing",
-        "photographer_url": "",
-        "avg_color": "#52572E",
-        "src": {
-          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(1).png"
-        },
-        "liked": false,
-        "alt": "Wallpaper from NothingOS"
-      },
-       {
-        "id": 24,
-        "width": 1090,
-        "height": 1080,
-        "photographer": "Nothing",
-        "photographer_url": "",
-        "avg_color": "#52572E",
-        "src": {
-          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(2).png"
-        },
-        "liked": false,
-        "alt": "Wallpaper from NothingOS"
-      },
-       {
-        "id": 25,
-        "width": 1090,
-        "height": 1080,
-        "photographer": "Nothing",
-        "photographer_url": "",
-        "avg_color": "#52572E",
-        "src": {
-          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(3).png"
-        },
-        "liked": false,
-        "alt": "Wallpaper from NothingOS"
-      },
-         {
-        "id": 26,
-        "width": 1090,
-        "height": 1080,
-        "photographer": "Nothing",
-        "photographer_url": "",
-        "avg_color": "#52572E",
-        "src": {
-          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(4).png"
-        },
-        "liked": false,
-        "alt": "Wallpaper from NothingOS"
-      },
-      {
-        "id": 26,
-        "width": 1090,
-        "height": 1080,
-        "photographer": "Nothing",
-        "photographer_url": "",
-        "avg_color": "#52572E",
-        "src": {
-          "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/stock/Nothing%20Phone%201%20Wallpapers%20(5).png"
-        },
-        "liked": false,
-        "alt": "Wallpaper from NothingOS"
       }
     ]
   }
