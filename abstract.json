@@ -1,0 +1,329 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/1.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 2,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/10.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 3,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/11.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 4,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/12.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 5,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/13.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 6,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/14.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 7,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/15.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 8,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/16.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 9,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/17.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 10,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/18.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 11,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/19.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 12,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/2.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 13,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/20.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 14,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/21.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 15,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/22.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 16,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/23.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 17,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/24.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 18,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/25.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 19,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/3.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 20,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/4.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 21,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/5.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 22,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/6.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 23,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/7.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 24,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/8.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        },
+        {
+            "id": 25,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Unknown",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/abstract/9.jpg"
+            },
+            "liked": false,
+            "alt": "Abstract Wallpapers"
+        }
+    ]
+}
