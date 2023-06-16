@@ -1,0 +1,108 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/1.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 2,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/2.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 3,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/3.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 4,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/4.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 5,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/5.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 6,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/6.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 7,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/7.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        },
+        {
+            "id": 8,
+            "width": 1080,
+            "height": 1900,
+            "photographer": "Google",
+            "photographer_url": "",
+            "avg_color": "",
+            "src": {
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/pixel7pro/8.jpg"
+            },
+            "liked": false,
+            "alt": "Wallpaper From Pixel 7 Pro"
+        }
+    ]
+}
