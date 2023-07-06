@@ -27,45 +27,6 @@
             "alt": "Recent Wallpapers"
         },
         {
-            "id": 3,
-            "width": 1080,
-            "height": 2400,
-            "photographer": "Arvind Pillai",
-            "photographer_url": "https://www.instagram.com/arvind_snaps/",
-            "avg_color": "",
-            "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/11.jpg"
-            },
-            "liked": false,
-            "alt": "Recent Wallpapers"
-        },
-        {
-            "id": 4,
-            "width": 1080,
-            "height": 2400,
-            "photographer": "Arvind Pillai",
-            "photographer_url": "https://www.instagram.com/arvind_snaps/",
-            "avg_color": "",
-            "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/12.jpg"
-            },
-            "liked": false,
-            "alt": "Recent Wallpapers"
-        },
-        {
-            "id": 5,
-            "width": 1080,
-            "height": 2400,
-            "photographer": "Arvind Pillai",
-            "photographer_url": "https://www.instagram.com/arvind_snaps/",
-            "avg_color": "",
-            "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/13.jpg"
-            },
-            "liked": false,
-            "alt": "Recent Wallpapers"
-        },
-        {
             "id": 6,
             "width": 1080,
             "height": 2400,
@@ -178,19 +139,6 @@
             "avg_color": "",
             "src": {
                 "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/21.jpg"
-            },
-            "liked": false,
-            "alt": "Recent Wallpapers"
-        },
-        {
-            "id": 15,
-            "width": 1080,
-            "height": 2400,
-            "photographer": "Arvind Pillai",
-            "photographer_url": "https://www.instagram.com/arvind_snaps/",
-            "avg_color": "",
-            "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/22.jpg"
             },
             "liked": false,
             "alt": "Recent Wallpapers"
@@ -749,7 +697,7 @@
             "photographer_url": "https://www.instagram.com/arvind_snaps/",
             "avg_color": "",
             "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/61.jpg"
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/69.jpg"
             },
             "liked": false,
             "alt": "Recent Wallpapers"
@@ -762,7 +710,7 @@
             "photographer_url": "https://www.instagram.com/arvind_snaps/",
             "avg_color": "",
             "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/62.jpg"
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/arvind/67.jpg"
             },
             "liked": false,
             "alt": "Recent Wallpapers"
