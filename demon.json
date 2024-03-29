@@ -8,23 +8,23 @@
             "photographer_url": "",
             "avg_color": "",
             "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/demon/10.jpg"
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/demon/14.jpg"
             },
             "liked": false,
             "alt": "Demon Slayer Wallpaper"
         },
         {
-            "id": 57,
+            "id": 2,
             "width": 1080,
             "height": 1900,
             "photographer": "WallpaperAccess",
             "photographer_url": "",
             "avg_color": "",
             "src": {
-                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/demon/download.jpg"
+                "original": "https://raw.githubusercontent.com/abhixv098/wall/main/images/demon/15.png"
             },
             "liked": false,
             "alt": "Demon Slayer Wallpaper"
-        }
+        },
     ]
 }
